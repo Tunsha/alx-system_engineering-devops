@@ -1,2 +1,2 @@
 #!/bin/bash
-chjrp school hello
+chgrp school hello
