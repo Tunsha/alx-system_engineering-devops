@@ -1,0 +1,2 @@
+l listing 
+rm * remove 
