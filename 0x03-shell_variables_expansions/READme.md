@@ -1,2 +1,0 @@
-li listing 
-rm * remove 
